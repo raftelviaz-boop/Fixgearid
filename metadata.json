@@ -1,0 +1,6 @@
+{
+  "name": "FIXGEAR.ID",
+  "description": "Fixed gear cycling community platform with live leaderboard, race registrations, spots & routes, and digital rider pass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
